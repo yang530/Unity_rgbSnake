@@ -1,5 +1,5 @@
 # Unity Game: RGB Snake
-This is an Unity Game I made in 2016 for a Gamejam contest in China.
+This is an Unity Game I made in 2016 for a Game Jams contest in China.
 
 ## How to Use/Import
 1. All the assets of the project (including scripts, materials, resources and scene etc.) are in the asset folder.
