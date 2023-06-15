@@ -1,4 +1,4 @@
-# Unity_rgbSnake
+# Unity Game: RGB Snake
 This is an Unity Game I made in 2016 for a Gamejam contest in China.
 
 ## How to Use/Import
