@@ -3,7 +3,8 @@ This is an Unity Game I made in 2016 for a Gamejam contest in China.
 
 ## How to Use/Import
 1. All the assets of the project (including scripts, materials, resources and scene etc.) are in the asset folder.
-2. The exported package is also in the root folder.
+2. The exported package is the "Exported Packages" folder.
+3. Either drag and drop all files in the asset folder into unity or import the package in the development environment in Unity.
 
 ## Game Overview
 
